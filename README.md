@@ -1,3 +1,3 @@
-# goit-markup-hw-04-new
+# goit-markup-hw-06
 
-https://nickgric.github.io/goit-markup-hw-05/
+https://nickgric.github.io/goit-markup-hw-06/
